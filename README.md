@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 
 ## Available Scripts
+=======
+# Getting Started with Create React App
+>>>>>>> 76e72868f522426308acbe03c0cfcd91374452f4
 
 In the project directory, you can run:
 
