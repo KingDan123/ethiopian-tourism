@@ -1,0 +1,56 @@
+.header {
+  display: flex;
+  width: 100%;
+  gap: 20px;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+
+@media (max-width: 991px) {
+  .header {
+    max-width: 100%;
+  }
+}
+
+.logoWrapper {
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+}
+
+.logo {
+  aspect-ratio: 1.81;
+  object-fit: contain;
+  object-position: center;
+  width: 213px;
+  max-width: 100%;
+}
+
+.navigation {
+  align-self: start;
+  display: flex;
+  margin-top: 30px;
+  align-items: start;
+  gap: 40px 55px;
+  color: #fff;
+  white-space: nowrap;
+  justify-content: start;
+  font: 500 24px Poppins, sans-serif;
+}
+
+@media (max-width: 991px) {
+  .navigation {
+    white-space: initial;
+  }
+}
+
+.navItem {
+  align-self: stretch;
+  gap: 10px;
+}
+
+@media (max-width: 991px) {
+  .navItem {
+    white-space: initial;
+  }
+}
