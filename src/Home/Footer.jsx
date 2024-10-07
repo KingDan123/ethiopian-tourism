@@ -6,7 +6,7 @@ function Footer() {
   return (
     <footer className={styles.footer}>
       <img
-        src="https://cdn.builder.io/api/v1/image/assets/TEMP/e91351b39eceb6d029d101261baa4b200454f0465522e12f46ca603c9e25e598?placeholderIfAbsent=true&apiKey=7b58294a66e9491ca1b54fe6e6c413c7"
+        src="../img/Ethiopian-Tourism-logo-1.png"
         alt="Ethiopia Explorer Logo"
         className={styles.footerLogo}
       />

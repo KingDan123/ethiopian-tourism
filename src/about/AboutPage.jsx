@@ -14,7 +14,7 @@ function AboutPage() {
     <div className={styles.aboutPage}>
     <main className={styles.container}>
         <img
-        src="https://cdn.builder.io/api/v1/image/assets/TEMP/2136e4ab8a63cb77c456a01609181cf5c8729a23ca44b27a280479770353f161?placeholderIfAbsent=true&apiKey=7b58294a66e9491ca1b54fe6e6c413c7"
+        src="../img/Blue_Nile_Falls.jpg"
         alt=""
         className={styles.backgroundImage}
       />

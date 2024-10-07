@@ -12,7 +12,7 @@ function EthiopiaExplorer() {
        <main className={styles.container}>
        <img
         loading="lazy"
-        src="https://cdn.builder.io/api/v1/image/assets/TEMP/5769d50b6da04fb4759dbc7c9e5549294c68834142c372f44b51dbbc1b6d4feb?placeholderIfAbsent=true&apiKey=7b58294a66e9491ca1b54fe6e6c413c7"
+        src="../img/photo2jpg.jpg"
         className={styles.backgroundImage}
         alt=""
       />

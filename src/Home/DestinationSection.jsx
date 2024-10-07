@@ -5,7 +5,7 @@ import { Link } from 'react-router-dom';
 const destinations = [
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/675b505e75a083cf88a52a49e55959c8b4e9791c7b8a985ac56ebe8193ec15ad?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/Danakil.jpg",
     title: "Danakil Depression",
     description:
       "The Danakil Depression stands as a marvel of nature, showcasing a landscape dotted with unique features like sulfur springs and salt flats, creating an otherworldly oasis in the heart of Ethiopia.",
@@ -18,7 +18,7 @@ const destinations = [
   },
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/09de035f19c540746943b61c8eb98d6100778f4bc6d4aa2a8a8556c738319655?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/mercata.jpg",
     title: "Mercato Market, Addis Ababa",
     description:
       "Africa's largest open-air market situated in Addis Ababa, Ethiopia",
@@ -31,7 +31,7 @@ const destinations = [
   },
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/0189aee69e5742fef79394fd5a8bad4d128d488be63d1ff5a980e3adc0503a26?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/lalibela.jpg",
     title: "Rock-Hewn Churches of Lalibela",
     description:
       "The Rock-Hewn Churches of Lalibela in Ethiopia are a testament to human ingenuity and faith, carved into solid rock centuries ago",
@@ -45,7 +45,7 @@ const destinations = [
   ,
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/d1c4a68d88373530c322dab7d479d5bfa65b460145cc1a15cb499a6ef9712320?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/Simien.jpg",
     title: "Simien Mountains National Park",
     description:
       "The Park is captivates with its stunning landscapes, towering peaks, and rich biodiversity, offering a unique and unforgettable experience for visitors.",
@@ -58,7 +58,7 @@ const destinations = [
   },
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/e98a7d1e1d017878634749f02611bf3a0d22d8c8c4439e7275af1bf22f40727b?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/g.jpg",
     title: "Gheralta Rock",
     description:
       "The Gheralta Rock formations in Ethiopia stand as a captivating testament to nature's artistry and human history, harmoniously intertwined in a stunning landscape",
@@ -71,7 +71,7 @@ const destinations = [
   },
   {
     image:
-      "https://cdn.builder.io/api/v1/image/assets/TEMP/f95e104f2773fe3872e66e108ee1346139f694555fce3b34de9b279ced8410ff?apiKey=7b58294a66e9491ca1b54fe6e6c413c7&",
+      "../img/Evan.png",
     title: "The Lower Omo Valley",
     description:
       "The Lower Omo Valley in Ethiopia is a captivating tapestry of cultural heritage and natural beauty, where traditional tribes and picturesque landscapes intertwine harmoniously.",
